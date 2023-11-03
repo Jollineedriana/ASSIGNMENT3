@@ -1,0 +1,9 @@
+body{background-image: url(./images/background6.jpeg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+background-color: bisque;
+background-image: url(/images/background6.jpeg);
+text-align: center;
+
+}
